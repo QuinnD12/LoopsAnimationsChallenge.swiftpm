@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct LoopsView: View {
-    
+
     @State var number1 = ""
     @State var number2 = ""
     @State var number3 = ""
